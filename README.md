@@ -17,13 +17,14 @@ O site inclui:
 
 ## Estrutura de Pastas
 
+```bash
 /curriculo/
 ├── index.html # Página principal
 ├── style.css # Estilos CSS
 ├── script.js # Funcionalidades JavaScript
 └── /media/
 ├── foto.jpg # Foto de perfil
-
+```
 ---
 
 ## Tecnologias Utilizadas
