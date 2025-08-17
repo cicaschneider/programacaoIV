@@ -46,4 +46,4 @@ O site inclui:
 ## Como Rodar
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/cicaschneider/curriculo.git
+   git clone https://github.com/cicaschneider/programacaoIV.git
