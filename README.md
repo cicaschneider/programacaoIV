@@ -1,6 +1,6 @@
 # Currículo Online - Ciça Schneider
 
-## Descrição do Projeto
+## ✨ Descrição do Projeto
 Este é um **currículo online interativo** desenvolvido com HTML5, CSS3 e JavaScript.  
 O objetivo é apresentar minhas habilidades técnicas e experiência profissional de forma acessível, visual e responsiva.
 
@@ -15,7 +15,7 @@ O site inclui:
 
 ---
 
-## Estrutura de Pastas
+##  📂 Estrutura de Pastas
 
 ```bash
 /curriculo/
@@ -27,7 +27,7 @@ O site inclui:
 ```
 ---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - HTML5
 - CSS3 (Flexbox, responsividade, hover)
 - JavaScript (interatividade básica)
@@ -36,14 +36,16 @@ O site inclui:
 
 ---
 
-## Funcionalidades em JavaScript
-1. **Saudação personalizada**: o usuário digita seu nome e recebe uma mensagem no topo da página.
-2. **Canvas interativo**: mostra visualmente minhas habilidades técnicas.
-3. (Opcional) Interações como mudar cores ou mostrar/ocultar seções.
+## 🚀 Funcionalidades em JavaScript
+✅ Saudação personalizada ao inserir o nome no formulário  
+✅ Exibição de habilidades técnicas e interpessoais  
+✅ Design responsivo para desktop e mobile  
+✅ Mídia integrada (imagem e áudio)  
+✅ Ilustração em `<canvas>` como enfeite visual 
 
 ---
 
-## Como Rodar
+## 🌐 Como Rodar
 1. Clone ou baixe este repositório:
    ```bash
    git clone https://github.com/cicaschneider/programacaoIV.git
