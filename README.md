@@ -37,10 +37,9 @@ O site inclui:
 ---
 
 ## 🚀 Funcionalidades em JavaScript
-✅ Saudação personalizada ao inserir o nome no formulário  
 ✅ Exibição de habilidades técnicas e interpessoais  
 ✅ Design responsivo para desktop e mobile  
-✅ Mídia integrada (imagem e áudio)  
+✅ Mídia integrada (imagem)  
 ✅ Ilustração em `<canvas>` como enfeite visual 
 
 ---
